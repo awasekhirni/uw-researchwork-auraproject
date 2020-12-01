@@ -1,0 +1,4 @@
+Copyright 2020 Awase Khirni Syed 
+Reading and applying Zhang(1984) method for skeletonize 
+the map features. 
+- inversion of colors and skeletonize
