@@ -1,0 +1,71 @@
+#Open Web Access Image Schema.JSON (OWAIS.json)
+#Open Standard for Color Recognition from Images 
+#Copyright 2020 Awase Khirni Syed Geospatial Sense Lab - University of Waterloo 
+#version 1.0
+{
+  "image": [
+    {
+      "pixelid": 1,
+      "xij": "5218",
+      "northwest-xij": "998",
+      "north-xij": "3123",
+      "northeast-xij": "5",
+      "west-xij": "6",
+      "east-xij": "193",
+      "southeast-xij": "85",
+      "south-xij": "60247",
+      "southwest-xij": "299",
+      "xij-red": "0",
+      "xij-green": "9",
+      "xij-blue": "283",
+      "hexstring": "406",
+      "xij-hue": "53765",
+      "xij-s": "3",
+      "xij-l": "1",
+      "xij-colorname": "7163",
+      "xij-gps": "41978"
+    },
+    {
+      "pixelid": 2,
+      "xij": "8047",
+      "northwest-xij": "6",
+      "north-xij": "95",
+      "northeast-xij": "138",
+      "west-xij": "6425",
+      "east-xij": "958",
+      "southeast-xij": "9584",
+      "south-xij": "16786",
+      "southwest-xij": "9",
+      "xij-red": "5",
+      "xij-green": "353",
+      "xij-blue": "6710",
+      "hexstring": "6240",
+      "xij-hue": "1310",
+      "xij-s": "849",
+      "xij-l": "82179",
+      "xij-colorname": "7",
+      "xij-gps": "1773"
+    },
+    {
+      "pixelid": 3,
+      "xij": "23",
+      "northwest-xij": "937",
+      "north-xij": "2",
+      "northeast-xij": "0",
+      "west-xij": "5466",
+      "east-xij": "04",
+      "southeast-xij": "5480",
+      "south-xij": "51",
+      "southwest-xij": "687",
+      "xij-red": "2643",
+      "xij-green": "3929",
+      "xij-blue": "4399",
+      "hexstring": "565",
+      "xij-hue": "5521",
+      "xij-s": "935",
+      "xij-l": "8090",
+      "xij-colorname": "646",
+      "xij-gps": "076"
+    }
+  ]
+}
